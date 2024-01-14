@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java Project<br>🌱 I’m currently learning WEB Development<br>💬 Ask me about  programming <br>
+🔭 I’m currently working on Web development Project<br>🌱 I’m currently learning WEB Development<br>💬 Ask me about  programming <br>
 
 
 ## 🌐 Socials:
