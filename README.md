@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 # 💫 About Me:
-🔭 I’m currently working on Web & Python Project<br>🌱 I’m currently learning  WEB Development<br>💬 Ask me about my repository and projects<br>
+🚀 A driven and adaptable college student 🎓 deeply passionate about software development 💻, I am dedicated to delivering projects promptly ⏰ and continually learning 📚 in the ever-evolving tech landscape 🌐. As a team-oriented collaborator 🤝, I prioritize equitable task distribution in group projects 🛠️, fostering a supportive environment 🌟 where mutual goals are achieved with precision 🎯 and efficiency ⚡. With a strong foundation in coding principles 🖥️ and a commitment to excellence 🏆, I am poised to contribute effectively to innovative software projects 🔧 and thrive in a dynamic tech environment 🚀.<br>
 
 
 
