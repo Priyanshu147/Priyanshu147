@@ -1,7 +1,14 @@
 ![](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 # 💫 About Me:
-🚀 A driven and adaptable college student 🎓 deeply passionate about software development 💻, I am dedicated to delivering projects promptly ⏰ and continually learning 📚 in the ever-evolving tech landscape 🌐. As a team-oriented collaborator 🤝, I prioritize equitable task distribution in group projects 🛠️, fostering a supportive environment 🌟 where mutual goals are achieved with precision 🎯 and efficiency ⚡. With a strong foundation in coding principles 🖥️ and a commitment to excellence 🏆, I am poised to contribute effectively to innovative software projects 🔧 and thrive in a dynamic tech environment 🚀.<br>
+💻 At the intersection of creativity and technology, I thrive as a Software Engineer Intern at Quicksoftec, where I harness the power of the MERN stack to build dynamic, scalable, and user-centric solutions. My role is driven by a commitment to bridging theory and practice, turning complex ideas into impactful applications.
 
+🎓 Currently pursuing my Bachelor of Engineering in Computer Engineering at LJ University, my academic journey is complemented by hands-on experience in developing robust software solutions. Through coursework and real-world projects, I have cultivated a deep understanding of software development, problem-solving, and innovative thinking.
+
+🚀 My expertise in React and Node.js, paired with certifications in Java and Front-End Development, empowers me to contribute meaningfully to projects that prioritize performance, scalability, and exceptional user experiences. I am a firm believer in the power of technology to simplify lives and create meaningful change.
+
+🌟 Beyond technical skills, I am passionate about full-stack development and continuously exploring the latest tools, frameworks, and best practices. Whether collaborating with teams or diving into individual challenges, I find excitement in solving problems and delivering solutions that resonate with end-users.
+
+⚡ With a growth mindset and a strong foundation in software engineering, I am eager to embrace new challenges in the ever-evolving tech landscape, contributing to projects that make a difference.
 
 
 ## 🌐 Socials:
