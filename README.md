@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER - Reliable SVG text header -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=800&height=20&lines=Welcome+to+my+GitHub+%E2%9C%A8" />
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                  HEADER — typing SVG (demolab — very reliable)                -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=800&height=24&lines=%E2%9C%A8+Welcome+to+my+GitHub+%E2%9C%A8" alt="welcome" />
 
 ```
 ██████╗ ██████╗ ██╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗
@@ -12,22 +15,21 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B+I'm+Priyanshu+Patel;Full-Stack+Engineer+%F0%9F%9A%80;MERN+%2B+Python+%2B+AI+Builder+%F0%9F%A4%96;Turning+Ideas+Into+Products+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=720&height=60&lines=Hi+%F0%9F%91%8B+I'm+Priyanshu+Patel;Full-Stack+MERN+Engineer+%F0%9F%9A%80;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Products+%E2%9C%A8" alt="Typing SVG" />
 
-<br/>
-
-<!-- Animated subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+Web+%26+AI+Products+with+MERN+%26+Python" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=600&color=A78BFA&center=true&vCenter=true&width=720&lines=%F0%9F%9A%80+Building+Web+%26+AI+Products+with+MERN+%26+Python" alt="Subtitle" />
 
 <br/><br/>
 
-<!-- Social Badges - Animated glow style -->
-[![LinkedIn](https://img.shields.io/badge/─────────LinkedIn─────────-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Priyanshu1407)
-[![Instagram](https://img.shields.io/badge/───Instagram───-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priyanshu1.00)
-[![X](https://img.shields.io/badge/─────X─────-%23000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/priyanshu__100)
+<!-- ── Socials ── shields.io = very reliable ── -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Priyanshu1407)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priyanshu1.00)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/priyanshu__100)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanshu147)
 
 <br/>
 
+<!-- komarev.com = very reliable profile counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu147&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/Priyanshu147?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)
 
@@ -61,15 +63,13 @@
 </td>
 <td width="45%">
 
+<!-- GitHub-hosted CDN GIF — always reliable -->
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<!-- Quick facts in a stylish list -->
 <div align="center">
 
 | 🔭 Currently | Building scalable MERN + AI apps @ Quicksoftec |
@@ -78,71 +78,84 @@
 | 🎓 Learning | Advanced **System Design** & **MLOps** |
 | 🏅 Certified | **Java** & **Front-End Development** |
 | 💬 Ask me about | React, Node.js, Python, REST APIs |
+| ⚡ Fun fact | `undefined` is not a bug, it's a feature 😅 |
 
 </div>
 
 ---
 
-<!-- ANIMATED SKILL ICONS - Much more visual than badges -->
-## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="32"> Tech Arsenal
+## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"> Tech Arsenal
 
+<!-- skillicons.dev — open-source, GitHub-hosted, very reliable -->
 <div align="center">
-<br/>
 
-### Languages
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=js,python,java,c,html,css&theme=dark&perline=6" /></a>
+### ⚡ Languages
+<img src="https://skillicons.dev/icons?i=js,python,java,c,html,css&theme=dark" />
 
-### Frontend
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark&perline=6" /></a>
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
 
-### Backend & Databases
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres&theme=dark&perline=6" /></a>
+### 🛠️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres&theme=dark" />
 
-### AI / ML
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=6" /></a>
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-### Tools
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark&perline=6" /></a>
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
 
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH - The most beautiful GitHub widget -->
 ## 📈 Contribution Activity
 
+<!-- github-readme-activity-graph — maintained on GitHub, reliable -->
 <div align="center">
-<br/>
 
-[![Priyanshu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu147&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=a78bfa&hide_border=true&custom_title=Priyanshu's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu147&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=Priyanshu's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
 ## 📊 GitHub Analytics
 
+<!-- github-readme-stats — anuraghazra/github-readme-stats, extremely reliable -->
+<!-- streak-stats.demolab.com — DenverCoder9, replaces unreliable herokuapp -->
 <div align="center">
-<br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyanshu147&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu147&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&border_radius=10" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Priyanshu147&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu147&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=10" />
+
 
 </div>
 
----
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Priyanshu147/Priyanshu147/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Priyanshu147/Priyanshu147/output/github-snake.svg" />
+  <img alt="github contribution snake"
+       src="https://raw.githubusercontent.com/Priyanshu147/Priyanshu147/output/github-snake-dark.svg"
+       onerror="this.style.display='none'" />
+</picture>
+
+</div>
 
 ---
 
@@ -155,12 +168,11 @@
 
 ### 🤝 Let's build something great together!
 
-<br/>
-
 *"The best way to predict the future is to build it."* 🚀
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer&animation=twinkling" width="100%" />
+<!-- capsule-render — reliable Vercel service -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=100&section=footer" width="100%" />
 
 </div>
