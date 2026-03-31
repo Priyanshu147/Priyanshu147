@@ -82,34 +82,60 @@
 | ⚡ Fun fact | `undefined` is not a bug, it's a feature 😅 |
 
 </div>
-
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"> Tech Arsenal
+## 🚀 Tech Arsenal
 
-<!-- skillicons.dev — open-source, GitHub-hosted, very reliable -->
 <div align="center">
 
-### ⚡ Languages
+<!-- Glass Card -->
+<table>
+<tr>
+<td align="center" width="300">
+
+### 💻 Languages  
 <img src="https://skillicons.dev/icons?i=js,python,java,c,html,css&theme=dark" />
 
-### 🌐 Frontend
+</td>
+
+<td align="center" width="300">
+
+### 🌐 Frontend  
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
 
-### 🛠️ Backend & Databases
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🛠️ Backend & DB  
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres&theme=dark" />
 
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,scikitlearn,&theme=dark" />
+</td>
 
+<td align="center">
 
-### 🧰 Tools
+### 🤖 AI / ML  
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,scikitlearn&theme=dark" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 🧰 Tools  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
 ---
-
 ## 📈 Contribution Activity
 
 <!-- github-readme-activity-graph — maintained on GitHub, reliable -->
