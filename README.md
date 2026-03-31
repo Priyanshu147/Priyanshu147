@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=100&section=header" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                  HEADER — typing SVG (demolab — very reliable)                -->
@@ -84,7 +85,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"> Tech Arsenal
+<img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"> Tech Arsenal
 
 <!-- skillicons.dev — open-source, GitHub-hosted, very reliable -->
 <div align="center">
@@ -99,12 +100,8 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres&theme=dark" />
 
 ### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,scikitlearn,&theme=dark" />
+
 
 ### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
@@ -162,15 +159,14 @@
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
 <br/>
 
 ### 🤝 Let's build something great together!
 
-*"The best way to predict the future is to build it."* 🚀
 
-<br/>
+
 
 <!-- capsule-render — reliable Vercel service -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=100&section=footer" width="100%" />
