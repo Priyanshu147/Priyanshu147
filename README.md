@@ -37,11 +37,6 @@
 
 ---
 
-<!-- TERMINAL STYLE ABOUT -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"/>
-</div>
-
 ## `~/priyanshu $ whoami`
 
 <table>
@@ -83,7 +78,6 @@
 | 🎓 Learning | Advanced **System Design** & **MLOps** |
 | 🏅 Certified | **Java** & **Front-End Development** |
 | 💬 Ask me about | React, Node.js, Python, REST APIs |
-| ⚡ Fun fact | `undefined` is not a bug, it's a feature 😅 |
 
 </div>
 
@@ -148,54 +142,7 @@
 
 ---
 
-<!-- TROPHIES - Fixed URL with correct params -->
-## 🏆 GitHub Trophies
 
-<div align="center">
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Priyanshu147&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&row=2" />
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-<br/>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Priyanshu147&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
-
-</div>
-
----
-
-<!-- SNAKE ANIMATION -->
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshu147/Priyanshu147/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshu147/Priyanshu147/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Priyanshu147/Priyanshu147/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<!-- QUOTE -->
-## 💬 Random Dev Quote
-
-<div align="center">
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
-
-</div>
 
 ---
 
