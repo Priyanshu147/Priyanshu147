@@ -51,9 +51,9 @@
 └─$ cat about.json
 {
   "name"      : "Priyanshu Patel",
-  "role"      : "SWE Intern @ Quicksoftec",
+  "role"      : "SWE Intern @ Anblicks",
   "college"   : "LJ University — B.E. CSE",
-  "stack"     : ["MERN", "Python", "Django"],
+  "stack"     : ["MERN", "Python", "Java"],
   "ai_tools"  : ["TensorFlow","Keras","sklearn"],
   "status"    : "🟢 Open to Opportunities",
   "passion"   : "Building impactful products",
@@ -73,13 +73,12 @@
 
 <div align="center">
 
-| 🔭 Currently | Building scalable MERN + AI apps @ Quicksoftec |
+| 🔭 Currently | Building scalable Web + AI apps @ Anblicks |
 |:---|:---|
 | 🤖 Exploring | Where **Web Dev** meets **Artificial Intelligence** |
 | 🎓 Learning | Advanced **System Design** & **MLOps** |
 | 🏅 Certified | **Java** & **Front-End Development** |
 | 💬 Ask me about | React, Node.js, Python, REST APIs |
-| ⚡ Fun fact | `undefined` is not a bug, it's a feature 😅 |
 
 </div>
 ---
