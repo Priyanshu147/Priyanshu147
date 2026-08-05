@@ -52,7 +52,7 @@
 {
   "name"      : "Priyanshu Patel",
   "role"      : "SWE Intern @ Anblicks",
-  "college"   : "LJ University — B.E. CSE",
+  "college"   : "LJ University — B.E. CE",
   "stack"     : ["MERN", "Python", "Java"],
   "ai_tools"  : ["TensorFlow","Keras","sklearn"],
   "status"    : "🟢 Open to Opportunities",
@@ -93,14 +93,14 @@
 <td align="center" width="300">
 
 ### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=js,python,java,c,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,python,java,c,ts&theme=dark" />
 
 </td>
 
 <td align="center" width="300">
 
 ### 🌐 Frontend  
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,react,tailwind,bootstrap&theme=dark" />
 
 </td>
 </tr>
@@ -109,7 +109,7 @@
 <td align="center">
 
 ### 🛠️ Backend & DB  
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,spring,postgres&theme=dark" />
 
 </td>
 
@@ -125,7 +125,7 @@
 <td colspan="2" align="center">
 
 ### 🧰 Tools  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,aws&theme=dark" />
 
 </td>
 </tr>
