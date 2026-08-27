@@ -51,7 +51,7 @@
 └─$ cat about.json
 {
   "name"      : "Priyanshu Patel",
-  "role"      : "SWE Intern @ Anblicks",
+  "role"      : "App & AI Engineer @ Anblicks",
   "college"   : "LJ University — B.E. CE",
   "stack"     : ["MERN", "Python", "Java"],
   "ai_tools"  : ["TensorFlow","Keras","sklearn"],
