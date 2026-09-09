@@ -134,15 +134,6 @@
 
 </div>
 
----
-## 📈 Contribution Activity
-
-<!-- github-readme-activity-graph — maintained on GitHub, reliable -->
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu147&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=Priyanshu's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
