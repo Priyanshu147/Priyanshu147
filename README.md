@@ -47,13 +47,13 @@
 
 <br/>
 
+<br/>
+
 <!-- ── Socials: one shape, one logo colour, colours step indigo → violet → cyan ── -->
 <a href="https://linkedin.com/in/Priyanshu1407"><img src="https://img.shields.io/badge/LinkedIn-%233730A3.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://instagram.com/priyanshu1.00"><img src="https://img.shields.io/badge/Instagram-%234F46E5.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://x.com/priyanshu__100"><img src="https://img.shields.io/badge/X-%237C3AED.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
 <a href="https://github.com/Priyanshu147"><img src="https://img.shields.io/badge/GitHub-%230E7490.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br/>
 
 <!-- ── Counters: komarev (view counter) + shields (followers), same style and colour ── -->
 <img src="https://komarev.com/ghpvc/?username=Priyanshu147&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />&nbsp;
@@ -82,7 +82,7 @@
   "college"   : "LJ University — B.E. CE",
   "stack"     : ["MERN", "Python", "Java"],
   "ai_tools"  : ["TensorFlow","Keras","sklearn"],
-  "status"    : "🟢 Open to Opportunities"
+  "status"    : "🟢 Open to Opportunities",
 }
 ```
 
@@ -96,7 +96,7 @@
 <table>
 <tr>
 <td width="190" align="left"><b>🔭 Currently</b></td>
-<td width="540" align="left">Building scalable Web + AI apps @ Anblicks</td>
+<td width="360" align="left">Building scalable Web + AI apps @ Anblicks</td>
 </tr>
 <tr>
 <td align="left"><b>🤖 Exploring</b></td>
